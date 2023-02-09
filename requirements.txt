@@ -1,0 +1,18 @@
+streamlit==1.17.0
+streamlit-folium==0.11.0
+plotly==5.12.0
+plotly-express==0.4.1
+pandas @ file:///D:/bld/pandas_1669134777944/work
+pandas==1.4.3
+numpy @ file:///D:/bld/numpy_1668919236258/work
+numpy==1.23.1
+folium==0.14.0
+matplotlib @ file:///D:/bld/matplotlib-suite_1667505124848/work
+matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1660814786464/work
+matplotlib==3.5.3
+matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1660814786464/work
+matplotlib-inline==0.1.6
+haversine==2.7.0
+Pillow @ file:///D:/bld/pillow_1666920723280/work
+Pillow==9.2.0
+

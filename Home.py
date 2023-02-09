@@ -29,7 +29,7 @@ st.markdown(
         - Indicadores semanais de crescimento do restaurante.
     ### Ask for help:
     - Time Data Science no Dicoverd:
-        - @marli
+        - @megarom
 """ )
         
     
