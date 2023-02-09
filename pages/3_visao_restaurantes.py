@@ -1,7 +1,7 @@
  # Libraries
+from haversine import haversine
 import plotly.express as px
 import plotly.graph_objects as go
-from haversine import haversine
 
 # bibliotecas necessárias
 import folium
@@ -210,12 +210,12 @@ with tab1:
         with col3:
             # Tempo Médio c/Festival
             df_aux = avg_std_delvery(df1, 'Yes','avg_time')
-            col3.metric( 'Average Time w/Fest.', df_aux )           
+            col3.metric( 'Average Time w/ Fest.', df_aux )           
 
         with col4:
             # STD Entrega c/ Festival
             df_aux = avg_std_delvery(df1, 'Yes','std_time')
-            col4.metric( 'STD Delivery w/Fest.', df_aux ) 
+            col4.metric( 'STD Delivery w/ Fest.', df_aux ) 
      
         with col5:
              # AVG Entrega s/Festival
