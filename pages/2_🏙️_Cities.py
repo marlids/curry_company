@@ -111,12 +111,6 @@ def clean_code(df1):
     """
     # 1. Remoçao dos dados Nan.
     df1 = df1[df1['Cuisines'].notnull()]
-
-   # linhas_selecionadas = df1['Restaurant ID'] != 18516213
-   # df1 = df1.loc[linhas_selecionadas, :]
-    
-   # linhas_selecionadas = df1['Restaurant ID'] != 16547518
-   # df1 = df1.loc[linhas_selecionadas, :]
     
     # 1.1 Apaga todos os Nan do dataframe
     #df1 = sort.drop()
